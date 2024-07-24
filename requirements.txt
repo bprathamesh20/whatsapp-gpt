@@ -1,6 +1,6 @@
-fastapi==0.95.2
-uvicorn==0.22.0
-langchain==0.0.200  # Note: Adjust the version as needed
-python-dotenv==1.0.0
-twilio==7.17.0
+fastapi
+uvicorn
+langchain  
+python-dotenv
+twilio
 python-multipart
