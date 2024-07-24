@@ -1,7 +1,6 @@
 from fastapi import FastAPI, Request, Response
 from twilio.twiml.messaging_response import MessagingResponse
 from twilio.rest import Client
-from datetime import datetime
 from llm import get_response
 import os
 from dotenv import load_dotenv
